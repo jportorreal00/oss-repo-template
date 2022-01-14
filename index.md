@@ -6,5 +6,9 @@ I am a senior CS major (graduating Spring '22). I'm interested in webdesign and 
 
 I like to play a few video games, dance, and learn languages (nothing too serious). If you're into astrology, I am a Scorpio Sun, Libra Moon, and Libra Rising.
 
+Discord: Javier#9124
+
+![me](me.jpg)
+
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
