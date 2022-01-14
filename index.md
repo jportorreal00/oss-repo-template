@@ -1,8 +1,10 @@
-# Open Source Software - Summer 2019
-## (( Your Name Here ))
+# Open Source Software - Spring 2022
+## Javier Portorreal
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+I am a senior CS major (graduating Spring '22). I'm interested in webdesign and I plan on doing Software Engineering when I move into full-time work. 
+
+I like to play a few video games, dance, and learn languages (nothing too serious). If you're into astrology, I am a Scorpio Sun, Libra Moon, and Libra Rising.
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
