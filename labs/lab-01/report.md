@@ -6,7 +6,17 @@
 
 ## 2. Readings
 
+### Open Source Definition
+
+Reading the definition of open source is definetly important if you want to try to start on a team or project. It coveres many cases and makes sure that the code being written is accessible, free, and usable to anyone who wants access. I think it's a great way to make sure the idea of open source doesn't change and that bias and outside influence has no way of damaging it.
+
 ### How To Answer Questions in a Helpful Way
+
+#### Summary
+
+This article is a coder's guide to forum post ettiquete. It covers many of the examples that one might encounter in day to day life while searching stack overflow. The purpose of this article is to stress the importance of understanding what you need from a forum, and how to clearly and politley get the help you need. The author was definetly condescending throughout the reading, but his points were very compelling. Being a good coder should also involve the values he tries to instill within the reader.
+
+#### Improvments
 
 1. When describing an issue you encountered, explain the previous attempts taken to solve the problem. This plays into the idea of "Describe the goal" and it can help someone figure out your though process while trying to reach a solution.
 2. Explain any other segments of code you received help with. Some people reach out for help from different people and can take their advice into the code they write. This might be a reason they don't fully understand their code or know where the problem is coming from.
