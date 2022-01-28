@@ -97,20 +97,20 @@ The lines of code are th exact same. Gitstat reports one more contributor and it
 
 ### B.O.T
 
-![BOT](https://youtu.be/7yOwpPv27is)
+https://youtu.be/7yOwpPv27is
 
 ### B7
 
-![b7](https://youtu.be/KyLP_PYUkI4)
+https://youtu.be/KyLP_PYUkI4
 
 ### BASA-OS
 
-![BASAOS](https://youtu.be/Duv6WZshL1I)
+https://youtu.be/Duv6WZshL1I
 
 ### BeirRun
 
-![BEIRRUN](https://youtu.be/hW4t6pscJwA)
+https://youtu.be/hW4t6pscJwA
 
 ### Better eBinder
 
-![BETTEREBINDER](https://youtu.be/LpY3XP5FCTc)
+https://youtu.be/LpY3XP5FCTc
