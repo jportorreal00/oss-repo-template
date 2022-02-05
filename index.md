@@ -14,3 +14,4 @@ Discord: Javier#9124
 [Lab 1](labs/lab-01/report.md)
 [Lab 2](labs/lab-02/report.md)
 [Lab 3](labs/lab-03/report.md)
+[Lab 4](labs/lab-04/report.md)
