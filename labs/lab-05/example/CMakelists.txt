@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.10)
+
+#set project name
+project(BuildExample)
+
+
+# add shared and static libraries
+add_library(libstatic STATIC source/block.c)
+add_library(libshared SHARED source/block.c)
+
+# add executibles for static and dynamic program
+add_executable(static_block program.c)
+add_executable(dynamic_block program.c)
+
+# add libraries
+target_link_libraries(static_block libstatic)
+target_link_libraries(dynamic_block libshared)

@@ -1,4 +1,4 @@
-# Lab 03 Report - Git
+# Lab 03 Report - Documentation and Community
 
 # Part 1
 

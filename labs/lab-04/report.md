@@ -1,4 +1,4 @@
-# Lab 04 Report - Git
+# Lab 04 Report - Licensing
 
 ### 1
 
