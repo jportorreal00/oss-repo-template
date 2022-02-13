@@ -35,7 +35,7 @@
 - [CMakeLists.txt](step5/CMakeLists1.txt)
 - [MathFunctions/CMakeLists.txt](step5/CMakeLists2.txt)
 
-![run step 5](step5/step5.png)
+![run step 5](step5/cmake.png)
 ![run step 5 off](step5/off.png)
 
 ### 2
