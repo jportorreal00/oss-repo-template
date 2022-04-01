@@ -8,78 +8,78 @@
 
 Localhost Message
 
-![step 1](1connect.png)
+![step 1](1connect.PNG)
 
 ### 2
 
 Curl Example
 
-![step 2](2curl.png)
+![step 2](2curl.PNG)
 
 Duplication
 
-![step 2](2duplicate.png)
+![step 2](2duplicate.PNG)
 
 Duplication Part 2
 
-![step 2](2duplicate2.png)
+![step 2](2duplicate2.PNG)
 
 Fauxton
 
-![step 2](2fauxton.png)
+![step 2](2fauxton.PNG)
 
 Query
 
-![step 2](2query.png)
+![step 2](2query.PNG)
 
 Query Part 2
 
-![step 2](2query2.png)
+![step 2](2query2.PNG)
 
 
 ### 3
 
 Databases
 
-![step 3](3db.png)
+![step 3](3db.PNG)
 
 Documents
 
-![step 3](3documents.png)
+![step 3](3documents.PNG)
 
 Revisions
 
-![step 3](3revision.png)
+![step 3](3revision.PNG)
 
 Documents in Detail
 
-![step 3](3documentdetails.png)
+![step 3](3documentdetails.PNG)
 
 Attachments
 
-![step 3](3attatchment.png)
+![step 3](3attatchment.PNG)
 
-![step 3](3attatchment2.png)
+![step 3](3attatchment2.PNG)
 
 Replication
 
-![step 3](3replica.png)
+![step 3](3replica.PNG)
 
 
 ### 4
 
 Year Query
 
-![step 4](4query.png)
+![step 4](4query.PNG)
 
 Title Query
 
-![step 4](4query2.png)
+![step 4](4query2.PNG)
 
 New Index
 
-![step 4](4query3.png)
+![step 4](4query3.PNG)
 
 Requery
 
-![step 4](4query4.png)
+![step 4](4query4.PNG)
